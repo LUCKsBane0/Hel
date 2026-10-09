@@ -1,2 +1,2 @@
 # Hel-Engine
-## The Hel engine is a 2D GameEngine written in C++ and SDL2.
+## The Hel engine is a 3D Game engine that implements rasterized and Ray traced graphics.
